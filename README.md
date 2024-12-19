@@ -40,16 +40,16 @@ The dataset is sourced from a modified version of the Los Angeles Open Data plat
 
 
 ## Visualizations
-  **## Temporal Analysis**: Crime trends over time.
+  **Temporal Analysis**: Crime trends over time.
 
-  **##Spatial Analysis**: Bar chart of crime frequency by area.
+  **Spatial Analysis**: Bar chart of crime frequency by area.
 
-  **##Heatmap**: Interactive map showing crime density.
+  **Heatmap**: Interactive map showing crime density.
 
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request for improvements.
 
 
 ## Contact
-Author: jannatulferdous201018@gmail.com
+Author: jannatulferdous201018@gmail.com//
 GitHub: [Maisha1714](https://github.com/Maisha1714)
