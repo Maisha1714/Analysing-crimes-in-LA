@@ -51,5 +51,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 
 
 ## Contact
-Author: jannatulferdous201018@gmail.com//
+Author: jannatulferdous201018@gmail.com
+
 GitHub: [Maisha1714](https://github.com/Maisha1714)
